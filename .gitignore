@@ -1,0 +1,5 @@
+extras/host_test/build/
+__pycache__/
+.pio/
+.vscode/
+.DS_Store
